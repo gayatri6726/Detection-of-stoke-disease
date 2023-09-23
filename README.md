@@ -1,1 +1,1 @@
-# Detection-of-stoke-disease
+# Detection-of-stroke-disease
